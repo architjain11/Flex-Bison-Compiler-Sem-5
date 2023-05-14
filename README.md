@@ -7,10 +7,12 @@ This repository contains code files and their output screenshots for the practic
 0Prac- Tokenization using C code
 
    ![Program 1](/0prac/output.png)
+---
 
 1Prac- Use LEX and YACC to extract tokens from a given source code.
 
    ![Program 2](/1prac/output.png)
+---
 
 2Prac- Fortran do-loop program
 
